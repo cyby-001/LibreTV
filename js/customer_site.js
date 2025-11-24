@@ -10,7 +10,7 @@ const CUSTOMER_SITES = {
     js: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
-    }，
+    },
     1080zyku: {
         api: 'https://api.1080zyku.com/inc/api_mac10.php',
         name: 'TV-1080资源',
